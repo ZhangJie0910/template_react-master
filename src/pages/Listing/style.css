@@ -1,0 +1,72 @@
+.Mui-expanded {
+  margin: 0 !important;
+  min-height: auto !important;
+  padding: 0 !important;
+}
+
+.MuiAccordionDetails-root {
+  padding: 0 !important;
+}
+
+.MuiAccordionSummary-root {
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+.MuiAccordionSummary-content {
+  margin: 0 !important;
+}
+
+.MuiAccordion-root:before {
+  height: 0 !important;
+}
+
+.MuiCheckbox-root {
+  padding: 0 !important;
+}
+
+.ribbon {
+  padding: 6px 45px 6px 30px;
+  height: fit-content;
+  clip-path: polygon(100% 0, 80% 50%, 100% 100%, 0% 100%, 0% 50%, 0% 0%);
+  /* font-family: "font_condensed"; */
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  position: absolute;
+  top: 4%;
+  z-index: 2;
+}
+
+.MuiFormControl-root {
+  width: 100%;
+}
+
+.theForm .MuiOutlinedInput-notchedOutline {
+  border: unset !important;
+}
+
+.MuiSelect-select {
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+.MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  color: #0D0D0D !important;
+  font-size: 14px !important;
+}
+
+.MuiPaginationItem-root {
+  color: "#fff";
+}
+
+.css-lqq3n7-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  color: #fff !important;
+  background-color: #15AAA0 !important;
+}
+
+/*# sourceMappingURL=style.css.map */
